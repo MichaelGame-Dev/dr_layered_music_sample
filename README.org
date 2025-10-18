@@ -1,0 +1,13 @@
+#+title: DragonRuby Layered Music Sample
+
+
+## What is this?
+This is a way I implemented a layered music track in my game jam game, Narrowing Space Shooter. The game itself [[https://michaelgame-dev.itch.io/narrowing-space-shooter]]
+
+The game itself was pretty rough around the edges, but I thought this functionality was cool.
+
+
+## License
+The music is used with permission. Created by Nick Rankin. You can find more info about him here: [[https://nicholasrankinmusic.com]]
+
+Code is intended to be released under the MIT license like the other DragonRuby Samples.
